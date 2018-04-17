@@ -1,0 +1,33 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.17|$
+Arch|x86_64-msvc|$
+
+[PLUGINS]
+npctrl.dll|$
+c:\Program Files\Microsoft Silverlight\5.1.50907.0\npctrl.dll|$
+5.1.50907.0|$
+1493848922000|0|0|0|$
+5.1.50907.0|$
+Silverlight Plug-In|$
+2
+0|application/x-silverlight|npctrl|scr|$
+1|application/x-silverlight-2|||$
+NPSWF64_26_0_0_151.dll|$
+C:\windows\system32\Macromed\Flash\NPSWF64_26_0_0_151.dll|$
+26.0.0.151|$
+1502264055241|0|0|0|$
+Shockwave Flash 26.0 r0|$
+Shockwave Flash|$
+2
+0|application/x-shockwave-flash|Adobe Flash movie|swf|$
+1|application/futuresplash|FutureSplash movie|spl|$
+
+[INVALID]
+c:\Program Files\Microsoft Silverlight\5.1.50907.0\npctrlui.dll|$
+1493848922000|$
+C:\Users\jbrady.000\AppData\Local\Microsoft\SkypeForBusinessPlugin\16.2.0.161\npGatewayNpapi.dll|$
+1481683442000|$
+C:\Users\jbrady.000\AppData\Local\Citrix\Plugins\104\npappdetector.dll|$
+1490367635523|$

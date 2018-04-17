@@ -1,0 +1,498 @@
+PATCH DIRECTORY C:\Users\HomePC.DESKTOP-LEARFQN\AppData\Local\Mozilla\Firefox\firefox\updates\0
+INSTALLATION DIRECTORY C:\Users\HomePC.DESKTOP-LEARFQN\Desktop\Projects\Misc\ffportable\App\firefox
+WORKING DIRECTORY C:\Users\HomePC.DESKTOP-LEARFQN\Desktop\Projects\Misc\ffportable\App\firefox
+NS_main: callback app file open attempt 1 failed. File: C:\Users\HomePC.DESKTOP-LEARFQN\Desktop\Projects\Misc\ffportable\App\firefox\firefox.exe. Last error: 32
+NS_main: callback app file open attempt 2 failed. File: C:\Users\HomePC.DESKTOP-LEARFQN\Desktop\Projects\Misc\ffportable\App\firefox\firefox.exe. Last error: 32
+NS_main: callback app file open attempt 3 failed. File: C:\Users\HomePC.DESKTOP-LEARFQN\Desktop\Projects\Misc\ffportable\App\firefox\firefox.exe. Last error: 32
+NS_main: callback app file open attempt 4 failed. File: C:\Users\HomePC.DESKTOP-LEARFQN\Desktop\Projects\Misc\ffportable\App\firefox\firefox.exe. Last error: 32
+NS_main: callback app file open attempt 5 failed. File: C:\Users\HomePC.DESKTOP-LEARFQN\Desktop\Projects\Misc\ffportable\App\firefox\firefox.exe. Last error: 32
+NS_main: callback app file open attempt 6 failed. File: C:\Users\HomePC.DESKTOP-LEARFQN\Desktop\Projects\Misc\ffportable\App\firefox\firefox.exe. Last error: 32
+NS_main: callback app file open attempt 7 failed. File: C:\Users\HomePC.DESKTOP-LEARFQN\Desktop\Projects\Misc\ffportable\App\firefox\firefox.exe. Last error: 32
+NS_main: callback app file open attempt 8 failed. File: C:\Users\HomePC.DESKTOP-LEARFQN\Desktop\Projects\Misc\ffportable\App\firefox\firefox.exe. Last error: 32
+NS_main: callback app file open attempt 9 failed. File: C:\Users\HomePC.DESKTOP-LEARFQN\Desktop\Projects\Misc\ffportable\App\firefox\firefox.exe. Last error: 32
+NS_main: callback app file open attempt 10 failed. File: C:\Users\HomePC.DESKTOP-LEARFQN\Desktop\Projects\Misc\ffportable\App\firefox\firefox.exe. Last error: 32
+NS_main: callback app file in use, continuing without exclusive access for executable file: C:\Users\HomePC.DESKTOP-LEARFQN\Desktop\Projects\Misc\ffportable\App\firefox\firefox.exe
+UPDATE TYPE complete
+PREPARE REMOVEFILE xul.dll
+PREPARE REMOVEFILE wow_helper.exe
+PREPARE REMOVEFILE webapprt/webapprt.ini
+PREPARE REMOVEFILE webapprt/omni.ja
+PREPARE REMOVEFILE webapprt-stub.exe
+PREPARE REMOVEFILE webapp-uninstaller.exe
+PREPARE REMOVEFILE voucher.bin
+PREPARE REMOVEFILE updater.ini
+PREPARE REMOVEFILE updater.exe
+PREPARE REMOVEFILE uninstall/helper.exe
+PREPARE REMOVEFILE softokn3.dll
+PREPARE REMOVEFILE softokn3.chk
+PREPARE REMOVEFILE sandboxbroker.dll
+PREPARE REMOVEFILE removed-files
+PREPARE REMOVEFILE precomplete
+PREPARE REMOVEFILE plugin-hang-ui.exe
+PREPARE REMOVEFILE plugin-container.exe
+PREPARE REMOVEFILE platform.ini
+PREPARE REMOVEFILE omni.ja
+PREPARE REMOVEFILE nssdbm3.dll
+PREPARE REMOVEFILE nssdbm3.chk
+PREPARE REMOVEFILE nssckbi.dll
+PREPARE REMOVEFILE nss3.dll
+PREPARE REMOVEFILE msvcr120.dll
+PREPARE REMOVEFILE msvcp120.dll
+PREPARE REMOVEFILE mozglue.dll
+PREPARE REMOVEFILE mozavutil.dll
+PREPARE REMOVEFILE mozavcodec.dll
+PREPARE REMOVEFILE maintenanceservice_installer.exe
+PREPARE REMOVEFILE maintenanceservice.exe
+PREPARE REMOVEFILE libGLESv2.dll
+PREPARE REMOVEFILE libEGL.dll
+PREPARE REMOVEFILE lgpllibs.dll
+PREPARE REMOVEFILE icuuc56.dll
+PREPARE REMOVEFILE icuin56.dll
+PREPARE REMOVEFILE icudt56.dll
+PREPARE REMOVEFILE gmp-clearkey/0.1/clearkey.info
+PREPARE REMOVEFILE gmp-clearkey/0.1/clearkey.dll
+PREPARE REMOVEFILE freebl3.dll
+PREPARE REMOVEFILE freebl3.chk
+PREPARE REMOVEFILE firefox.exe
+PREPARE REMOVEFILE dictionaries/en-US.dic
+PREPARE REMOVEFILE dictionaries/en-US.aff
+PREPARE REMOVEFILE dependentlibs.list
+PREPARE REMOVEFILE d3dcompiler_47.dll
+PREPARE REMOVEFILE crashreporter.ini
+PREPARE REMOVEFILE crashreporter.exe
+PREPARE REMOVEFILE browser/omni.ja
+PREPARE REMOVEFILE browser/features/loop@mozilla.org.xpi
+PREPARE REMOVEFILE browser/features/firefox@getpocket.com.xpi
+PREPARE REMOVEFILE browser/features/e10srollout@mozilla.org.xpi
+PREPARE REMOVEFILE browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+PREPARE REMOVEFILE browser/crashreporter-override.ini
+PREPARE REMOVEFILE browser/components/components.manifest
+PREPARE REMOVEFILE browser/components/browsercomps.dll
+PREPARE REMOVEFILE browser/chrome.manifest
+PREPARE REMOVEFILE breakpadinjector.dll
+PREPARE REMOVEFILE application.ini
+PREPARE REMOVEFILE D3DCompiler_43.dll
+PREPARE REMOVEFILE AccessibleMarshal.dll
+PREPARE REMOVEDIR webapprt/
+PREPARE REMOVEDIR uninstall/
+PREPARE REMOVEDIR gmp-clearkey/0.1/
+PREPARE REMOVEDIR gmp-clearkey/
+PREPARE REMOVEDIR dictionaries/
+PREPARE REMOVEDIR defaults/pref/
+PREPARE REMOVEDIR defaults/
+PREPARE REMOVEDIR browser/features/
+PREPARE REMOVEDIR browser/extensions/
+PREPARE REMOVEDIR browser/components/
+PREPARE REMOVEDIR browser/
+PREPARE ADD xul.dll
+PREPARE ADD wow_helper.exe
+PREPARE ADD webapprt/webapprt.ini
+PREPARE ADD webapprt/omni.ja
+PREPARE ADD webapprt-stub.exe
+PREPARE ADD webapp-uninstaller.exe
+PREPARE ADD voucher.bin
+PREPARE ADD updater.ini
+PREPARE ADD updater.exe
+PREPARE ADD uninstall/helper.exe
+PREPARE ADD softokn3.dll
+PREPARE ADD softokn3.chk
+PREPARE ADD sandboxbroker.dll
+PREPARE ADD removed-files
+PREPARE ADD precomplete
+PREPARE ADD plugin-hang-ui.exe
+PREPARE ADD plugin-container.exe
+PREPARE ADD platform.ini
+PREPARE ADD omni.ja
+PREPARE ADD nssdbm3.dll
+PREPARE ADD nssdbm3.chk
+PREPARE ADD nssckbi.dll
+PREPARE ADD nss3.dll
+PREPARE ADD msvcr120.dll
+PREPARE ADD msvcp120.dll
+PREPARE ADD mozglue.dll
+PREPARE ADD mozavutil.dll
+PREPARE ADD mozavcodec.dll
+PREPARE ADD maintenanceservice_installer.exe
+PREPARE ADD maintenanceservice.exe
+PREPARE ADD libGLESv2.dll
+PREPARE ADD libEGL.dll
+PREPARE ADD lgpllibs.dll
+PREPARE ADD icuuc56.dll
+PREPARE ADD icuin56.dll
+PREPARE ADD icudt56.dll
+PREPARE ADD gmp-clearkey/0.1/clearkey.info
+PREPARE ADD gmp-clearkey/0.1/clearkey.dll
+PREPARE ADD freebl3.dll
+PREPARE ADD freebl3.chk
+PREPARE ADD firefox.exe
+PREPARE ADD dictionaries/en-US.dic
+PREPARE ADD dictionaries/en-US.aff
+PREPARE ADD dependentlibs.list
+PREPARE ADD d3dcompiler_47.dll
+PREPARE ADD crashreporter.ini
+PREPARE ADD crashreporter.exe
+PREPARE ADD browser/omni.ja
+PREPARE ADD browser/features/websensehelper@mozilla.org.xpi
+PREPARE ADD browser/features/loop@mozilla.org.xpi
+PREPARE ADD browser/features/firefox@getpocket.com.xpi
+PREPARE ADD browser/features/e10srollout@mozilla.org.xpi
+PREPARE ADD browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+PREPARE ADD browser/crashreporter-override.ini
+PREPARE ADD browser/components/components.manifest
+PREPARE ADD browser/components/browsercomps.dll
+PREPARE ADD browser/chrome.manifest
+PREPARE ADD browser/blocklist.xml
+PREPARE ADD breakpadinjector.dll
+PREPARE ADD application.ini
+PREPARE ADD D3DCompiler_43.dll
+PREPARE ADD AccessibleMarshal.dll
+EXECUTE REMOVEFILE xul.dll
+EXECUTE REMOVEFILE wow_helper.exe
+EXECUTE REMOVEFILE webapprt/webapprt.ini
+EXECUTE REMOVEFILE webapprt/omni.ja
+EXECUTE REMOVEFILE webapprt-stub.exe
+EXECUTE REMOVEFILE webapp-uninstaller.exe
+EXECUTE REMOVEFILE voucher.bin
+EXECUTE REMOVEFILE updater.ini
+EXECUTE REMOVEFILE updater.exe
+EXECUTE REMOVEFILE uninstall/helper.exe
+EXECUTE REMOVEFILE softokn3.dll
+EXECUTE REMOVEFILE softokn3.chk
+EXECUTE REMOVEFILE sandboxbroker.dll
+EXECUTE REMOVEFILE removed-files
+EXECUTE REMOVEFILE precomplete
+EXECUTE REMOVEFILE plugin-hang-ui.exe
+EXECUTE REMOVEFILE plugin-container.exe
+EXECUTE REMOVEFILE platform.ini
+EXECUTE REMOVEFILE omni.ja
+EXECUTE REMOVEFILE nssdbm3.dll
+EXECUTE REMOVEFILE nssdbm3.chk
+EXECUTE REMOVEFILE nssckbi.dll
+EXECUTE REMOVEFILE nss3.dll
+EXECUTE REMOVEFILE msvcr120.dll
+EXECUTE REMOVEFILE msvcp120.dll
+EXECUTE REMOVEFILE mozglue.dll
+EXECUTE REMOVEFILE mozavutil.dll
+EXECUTE REMOVEFILE mozavcodec.dll
+EXECUTE REMOVEFILE maintenanceservice_installer.exe
+EXECUTE REMOVEFILE maintenanceservice.exe
+EXECUTE REMOVEFILE libGLESv2.dll
+EXECUTE REMOVEFILE libEGL.dll
+EXECUTE REMOVEFILE lgpllibs.dll
+EXECUTE REMOVEFILE icuuc56.dll
+EXECUTE REMOVEFILE icuin56.dll
+EXECUTE REMOVEFILE icudt56.dll
+EXECUTE REMOVEFILE gmp-clearkey/0.1/clearkey.info
+EXECUTE REMOVEFILE gmp-clearkey/0.1/clearkey.dll
+EXECUTE REMOVEFILE freebl3.dll
+EXECUTE REMOVEFILE freebl3.chk
+EXECUTE REMOVEFILE firefox.exe
+EXECUTE REMOVEFILE dictionaries/en-US.dic
+EXECUTE REMOVEFILE dictionaries/en-US.aff
+EXECUTE REMOVEFILE dependentlibs.list
+EXECUTE REMOVEFILE d3dcompiler_47.dll
+EXECUTE REMOVEFILE crashreporter.ini
+EXECUTE REMOVEFILE crashreporter.exe
+EXECUTE REMOVEFILE browser/omni.ja
+EXECUTE REMOVEFILE browser/features/loop@mozilla.org.xpi
+EXECUTE REMOVEFILE browser/features/firefox@getpocket.com.xpi
+EXECUTE REMOVEFILE browser/features/e10srollout@mozilla.org.xpi
+EXECUTE REMOVEFILE browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+EXECUTE REMOVEFILE browser/crashreporter-override.ini
+EXECUTE REMOVEFILE browser/components/components.manifest
+EXECUTE REMOVEFILE browser/components/browsercomps.dll
+EXECUTE REMOVEFILE browser/chrome.manifest
+EXECUTE REMOVEFILE breakpadinjector.dll
+EXECUTE REMOVEFILE application.ini
+EXECUTE REMOVEFILE D3DCompiler_43.dll
+EXECUTE REMOVEFILE AccessibleMarshal.dll
+EXECUTE REMOVEDIR webapprt/
+EXECUTE REMOVEDIR uninstall/
+EXECUTE REMOVEDIR gmp-clearkey/0.1/
+EXECUTE REMOVEDIR gmp-clearkey/
+EXECUTE REMOVEDIR dictionaries/
+EXECUTE REMOVEDIR defaults/pref/
+EXECUTE REMOVEDIR defaults/
+EXECUTE REMOVEDIR browser/features/
+EXECUTE REMOVEDIR browser/extensions/
+EXECUTE REMOVEDIR browser/components/
+EXECUTE REMOVEDIR browser/
+EXECUTE ADD xul.dll
+EXECUTE ADD wow_helper.exe
+EXECUTE ADD webapprt/webapprt.ini
+EXECUTE ADD webapprt/omni.ja
+EXECUTE ADD webapprt-stub.exe
+EXECUTE ADD webapp-uninstaller.exe
+EXECUTE ADD voucher.bin
+EXECUTE ADD updater.ini
+EXECUTE ADD updater.exe
+EXECUTE ADD uninstall/helper.exe
+EXECUTE ADD softokn3.dll
+EXECUTE ADD softokn3.chk
+EXECUTE ADD sandboxbroker.dll
+EXECUTE ADD removed-files
+EXECUTE ADD precomplete
+EXECUTE ADD plugin-hang-ui.exe
+EXECUTE ADD plugin-container.exe
+EXECUTE ADD platform.ini
+EXECUTE ADD omni.ja
+EXECUTE ADD nssdbm3.dll
+EXECUTE ADD nssdbm3.chk
+EXECUTE ADD nssckbi.dll
+EXECUTE ADD nss3.dll
+EXECUTE ADD msvcr120.dll
+EXECUTE ADD msvcp120.dll
+EXECUTE ADD mozglue.dll
+EXECUTE ADD mozavutil.dll
+EXECUTE ADD mozavcodec.dll
+EXECUTE ADD maintenanceservice_installer.exe
+EXECUTE ADD maintenanceservice.exe
+EXECUTE ADD libGLESv2.dll
+EXECUTE ADD libEGL.dll
+EXECUTE ADD lgpllibs.dll
+EXECUTE ADD icuuc56.dll
+EXECUTE ADD icuin56.dll
+EXECUTE ADD icudt56.dll
+EXECUTE ADD gmp-clearkey/0.1/clearkey.info
+EXECUTE ADD gmp-clearkey/0.1/clearkey.dll
+EXECUTE ADD freebl3.dll
+EXECUTE ADD freebl3.chk
+EXECUTE ADD firefox.exe
+EXECUTE ADD dictionaries/en-US.dic
+EXECUTE ADD dictionaries/en-US.aff
+EXECUTE ADD dependentlibs.list
+EXECUTE ADD d3dcompiler_47.dll
+EXECUTE ADD crashreporter.ini
+EXECUTE ADD crashreporter.exe
+EXECUTE ADD browser/omni.ja
+EXECUTE ADD browser/features/websensehelper@mozilla.org.xpi
+EXECUTE ADD browser/features/loop@mozilla.org.xpi
+EXECUTE ADD browser/features/firefox@getpocket.com.xpi
+EXECUTE ADD browser/features/e10srollout@mozilla.org.xpi
+EXECUTE ADD browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+EXECUTE ADD browser/crashreporter-override.ini
+EXECUTE ADD browser/components/components.manifest
+EXECUTE ADD browser/components/browsercomps.dll
+EXECUTE ADD browser/chrome.manifest
+EXECUTE ADD browser/blocklist.xml
+EXECUTE ADD breakpadinjector.dll
+EXECUTE ADD application.ini
+EXECUTE ADD D3DCompiler_43.dll
+EXECUTE ADD AccessibleMarshal.dll
+FINISH REMOVEFILE xul.dll
+ensure_remove: failed to remove file: xul.dll.moz-backup, rv: -1, err: 13
+backup_discard: unable to remove: xul.dll.moz-backup
+backup_discard: failed to schedule OS reboot removal of file: tobedeleted\mozE8F7.tmp
+FINISH REMOVEFILE wow_helper.exe
+FINISH REMOVEFILE webapprt/webapprt.ini
+FINISH REMOVEFILE webapprt/omni.ja
+FINISH REMOVEFILE webapprt-stub.exe
+FINISH REMOVEFILE webapp-uninstaller.exe
+FINISH REMOVEFILE voucher.bin
+FINISH REMOVEFILE updater.ini
+FINISH REMOVEFILE updater.exe
+ensure_remove: failed to remove file: updater.exe.moz-backup, rv: -1, err: 13
+backup_discard: unable to remove: updater.exe.moz-backup
+backup_discard: failed to schedule OS reboot removal of file: tobedeleted\mozE917.tmp
+FINISH REMOVEFILE uninstall/helper.exe
+FINISH REMOVEFILE softokn3.dll
+ensure_remove: failed to remove file: softokn3.dll.moz-backup, rv: -1, err: 13
+backup_discard: unable to remove: softokn3.dll.moz-backup
+backup_discard: failed to schedule OS reboot removal of file: tobedeleted\mozE918.tmp
+FINISH REMOVEFILE softokn3.chk
+FINISH REMOVEFILE sandboxbroker.dll
+ensure_remove: failed to remove file: sandboxbroker.dll.moz-backup, rv: -1, err: 13
+backup_discard: unable to remove: sandboxbroker.dll.moz-backup
+backup_discard: failed to schedule OS reboot removal of file: tobedeleted\mozE919.tmp
+FINISH REMOVEFILE removed-files
+FINISH REMOVEFILE precomplete
+FINISH REMOVEFILE plugin-hang-ui.exe
+FINISH REMOVEFILE plugin-container.exe
+FINISH REMOVEFILE platform.ini
+FINISH REMOVEFILE omni.ja
+ensure_remove: failed to remove file: omni.ja.moz-backup, rv: -1, err: 13
+backup_discard: unable to remove: omni.ja.moz-backup
+backup_discard: failed to schedule OS reboot removal of file: tobedeleted\mozE92A.tmp
+FINISH REMOVEFILE nssdbm3.dll
+ensure_remove: failed to remove file: nssdbm3.dll.moz-backup, rv: -1, err: 13
+backup_discard: unable to remove: nssdbm3.dll.moz-backup
+backup_discard: failed to schedule OS reboot removal of file: tobedeleted\mozE92B.tmp
+FINISH REMOVEFILE nssdbm3.chk
+FINISH REMOVEFILE nssckbi.dll
+ensure_remove: failed to remove file: nssckbi.dll.moz-backup, rv: -1, err: 13
+backup_discard: unable to remove: nssckbi.dll.moz-backup
+backup_discard: failed to schedule OS reboot removal of file: tobedeleted\mozE92C.tmp
+FINISH REMOVEFILE nss3.dll
+ensure_remove: failed to remove file: nss3.dll.moz-backup, rv: -1, err: 13
+backup_discard: unable to remove: nss3.dll.moz-backup
+backup_discard: failed to schedule OS reboot removal of file: tobedeleted\mozE92D.tmp
+FINISH REMOVEFILE msvcr120.dll
+ensure_remove: failed to remove file: msvcr120.dll.moz-backup, rv: -1, err: 13
+backup_discard: unable to remove: msvcr120.dll.moz-backup
+backup_discard: failed to schedule OS reboot removal of file: tobedeleted\mozE92E.tmp
+FINISH REMOVEFILE msvcp120.dll
+ensure_remove: failed to remove file: msvcp120.dll.moz-backup, rv: -1, err: 13
+backup_discard: unable to remove: msvcp120.dll.moz-backup
+backup_discard: failed to schedule OS reboot removal of file: tobedeleted\mozE92F.tmp
+FINISH REMOVEFILE mozglue.dll
+ensure_remove: failed to remove file: mozglue.dll.moz-backup, rv: -1, err: 13
+backup_discard: unable to remove: mozglue.dll.moz-backup
+backup_discard: failed to schedule OS reboot removal of file: tobedeleted\mozE940.tmp
+FINISH REMOVEFILE mozavutil.dll
+ensure_remove: failed to remove file: mozavutil.dll.moz-backup, rv: -1, err: 13
+backup_discard: unable to remove: mozavutil.dll.moz-backup
+backup_discard: failed to schedule OS reboot removal of file: tobedeleted\mozE941.tmp
+FINISH REMOVEFILE mozavcodec.dll
+ensure_remove: failed to remove file: mozavcodec.dll.moz-backup, rv: -1, err: 13
+backup_discard: unable to remove: mozavcodec.dll.moz-backup
+backup_discard: failed to schedule OS reboot removal of file: tobedeleted\mozE942.tmp
+FINISH REMOVEFILE maintenanceservice_installer.exe
+FINISH REMOVEFILE maintenanceservice.exe
+FINISH REMOVEFILE libGLESv2.dll
+FINISH REMOVEFILE libEGL.dll
+FINISH REMOVEFILE lgpllibs.dll
+ensure_remove: failed to remove file: lgpllibs.dll.moz-backup, rv: -1, err: 13
+backup_discard: unable to remove: lgpllibs.dll.moz-backup
+backup_discard: failed to schedule OS reboot removal of file: tobedeleted\mozE943.tmp
+FINISH REMOVEFILE icuuc56.dll
+ensure_remove: failed to remove file: icuuc56.dll.moz-backup, rv: -1, err: 13
+backup_discard: unable to remove: icuuc56.dll.moz-backup
+backup_discard: failed to schedule OS reboot removal of file: tobedeleted\mozE944.tmp
+FINISH REMOVEFILE icuin56.dll
+ensure_remove: failed to remove file: icuin56.dll.moz-backup, rv: -1, err: 13
+backup_discard: unable to remove: icuin56.dll.moz-backup
+backup_discard: failed to schedule OS reboot removal of file: tobedeleted\mozE954.tmp
+FINISH REMOVEFILE icudt56.dll
+ensure_remove: failed to remove file: icudt56.dll.moz-backup, rv: -1, err: 13
+backup_discard: unable to remove: icudt56.dll.moz-backup
+backup_discard: failed to schedule OS reboot removal of file: tobedeleted\mozE955.tmp
+FINISH REMOVEFILE gmp-clearkey/0.1/clearkey.info
+FINISH REMOVEFILE gmp-clearkey/0.1/clearkey.dll
+FINISH REMOVEFILE freebl3.dll
+ensure_remove: failed to remove file: freebl3.dll.moz-backup, rv: -1, err: 13
+backup_discard: unable to remove: freebl3.dll.moz-backup
+backup_discard: failed to schedule OS reboot removal of file: tobedeleted\mozE956.tmp
+FINISH REMOVEFILE freebl3.chk
+FINISH REMOVEFILE firefox.exe
+ensure_remove: failed to remove file: firefox.exe.moz-backup, rv: -1, err: 13
+backup_discard: unable to remove: firefox.exe.moz-backup
+backup_discard: failed to schedule OS reboot removal of file: tobedeleted\mozE957.tmp
+FINISH REMOVEFILE dictionaries/en-US.dic
+FINISH REMOVEFILE dictionaries/en-US.aff
+FINISH REMOVEFILE dependentlibs.list
+FINISH REMOVEFILE d3dcompiler_47.dll
+FINISH REMOVEFILE crashreporter.ini
+FINISH REMOVEFILE crashreporter.exe
+FINISH REMOVEFILE browser/omni.ja
+ensure_remove: failed to remove file: browser/omni.ja.moz-backup, rv: -1, err: 13
+backup_discard: unable to remove: browser/omni.ja.moz-backup
+backup_discard: failed to schedule OS reboot removal of file: tobedeleted\mozE968.tmp
+FINISH REMOVEFILE browser/features/loop@mozilla.org.xpi
+ensure_remove: failed to remove file: browser/features/loop@mozilla.org.xpi.moz-backup, rv: -1, err: 13
+backup_discard: unable to remove: browser/features/loop@mozilla.org.xpi.moz-backup
+backup_discard: failed to schedule OS reboot removal of file: tobedeleted\mozE969.tmp
+FINISH REMOVEFILE browser/features/firefox@getpocket.com.xpi
+ensure_remove: failed to remove file: browser/features/firefox@getpocket.com.xpi.moz-backup, rv: -1, err: 13
+backup_discard: unable to remove: browser/features/firefox@getpocket.com.xpi.moz-backup
+backup_discard: failed to schedule OS reboot removal of file: tobedeleted\mozE96A.tmp
+FINISH REMOVEFILE browser/features/e10srollout@mozilla.org.xpi
+FINISH REMOVEFILE browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+FINISH REMOVEFILE browser/crashreporter-override.ini
+FINISH REMOVEFILE browser/components/components.manifest
+FINISH REMOVEFILE browser/components/browsercomps.dll
+ensure_remove: failed to remove file: browser/components/browsercomps.dll.moz-backup, rv: -1, err: 13
+backup_discard: unable to remove: browser/components/browsercomps.dll.moz-backup
+backup_discard: failed to schedule OS reboot removal of file: tobedeleted\mozE96B.tmp
+FINISH REMOVEFILE browser/chrome.manifest
+FINISH REMOVEFILE breakpadinjector.dll
+FINISH REMOVEFILE application.ini
+FINISH REMOVEFILE D3DCompiler_43.dll
+FINISH REMOVEFILE AccessibleMarshal.dll
+FINISH REMOVEDIR webapprt/
+non-fatal error removing directory: webapprt/, rv: 0, err: 41
+FINISH REMOVEDIR uninstall/
+non-fatal error removing directory: uninstall/, rv: 0, err: 41
+FINISH REMOVEDIR gmp-clearkey/0.1/
+non-fatal error removing directory: gmp-clearkey/0.1/, rv: 0, err: 41
+FINISH REMOVEDIR gmp-clearkey/
+non-fatal error removing directory: gmp-clearkey/, rv: 0, err: 41
+FINISH REMOVEDIR dictionaries/
+non-fatal error removing directory: dictionaries/, rv: 0, err: 41
+FINISH REMOVEDIR defaults/pref/
+non-fatal error removing directory: defaults/pref/, rv: 0, err: 41
+FINISH REMOVEDIR defaults/
+non-fatal error removing directory: defaults/, rv: 0, err: 41
+FINISH REMOVEDIR browser/features/
+non-fatal error removing directory: browser/features/, rv: 0, err: 41
+FINISH REMOVEDIR browser/extensions/
+non-fatal error removing directory: browser/extensions/, rv: 0, err: 41
+FINISH REMOVEDIR browser/components/
+non-fatal error removing directory: browser/components/, rv: 0, err: 41
+FINISH REMOVEDIR browser/
+non-fatal error removing directory: browser/, rv: 0, err: 41
+FINISH ADD xul.dll
+FINISH ADD wow_helper.exe
+FINISH ADD webapprt/webapprt.ini
+FINISH ADD webapprt/omni.ja
+FINISH ADD webapprt-stub.exe
+FINISH ADD webapp-uninstaller.exe
+FINISH ADD voucher.bin
+FINISH ADD updater.ini
+FINISH ADD updater.exe
+FINISH ADD uninstall/helper.exe
+FINISH ADD softokn3.dll
+FINISH ADD softokn3.chk
+FINISH ADD sandboxbroker.dll
+FINISH ADD removed-files
+FINISH ADD precomplete
+FINISH ADD plugin-hang-ui.exe
+FINISH ADD plugin-container.exe
+FINISH ADD platform.ini
+FINISH ADD omni.ja
+FINISH ADD nssdbm3.dll
+FINISH ADD nssdbm3.chk
+FINISH ADD nssckbi.dll
+FINISH ADD nss3.dll
+FINISH ADD msvcr120.dll
+FINISH ADD msvcp120.dll
+FINISH ADD mozglue.dll
+FINISH ADD mozavutil.dll
+FINISH ADD mozavcodec.dll
+FINISH ADD maintenanceservice_installer.exe
+FINISH ADD maintenanceservice.exe
+FINISH ADD libGLESv2.dll
+FINISH ADD libEGL.dll
+FINISH ADD lgpllibs.dll
+FINISH ADD icuuc56.dll
+FINISH ADD icuin56.dll
+FINISH ADD icudt56.dll
+FINISH ADD gmp-clearkey/0.1/clearkey.info
+FINISH ADD gmp-clearkey/0.1/clearkey.dll
+FINISH ADD freebl3.dll
+FINISH ADD freebl3.chk
+FINISH ADD firefox.exe
+FINISH ADD dictionaries/en-US.dic
+FINISH ADD dictionaries/en-US.aff
+FINISH ADD dependentlibs.list
+FINISH ADD d3dcompiler_47.dll
+FINISH ADD crashreporter.ini
+FINISH ADD crashreporter.exe
+FINISH ADD browser/omni.ja
+FINISH ADD browser/features/websensehelper@mozilla.org.xpi
+FINISH ADD browser/features/loop@mozilla.org.xpi
+FINISH ADD browser/features/firefox@getpocket.com.xpi
+FINISH ADD browser/features/e10srollout@mozilla.org.xpi
+FINISH ADD browser/extensions/{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+FINISH ADD browser/crashreporter-override.ini
+FINISH ADD browser/components/components.manifest
+FINISH ADD browser/components/browsercomps.dll
+FINISH ADD browser/chrome.manifest
+FINISH ADD browser/blocklist.xml
+FINISH ADD breakpadinjector.dll
+FINISH ADD application.ini
+FINISH ADD D3DCompiler_43.dll
+FINISH ADD AccessibleMarshal.dll
+succeeded
+calling QuitProgressUI
+NS_main: unable to remove directory: tobedeleted, err: 41
+NS_main: failed to schedule OS reboot removal of directory: tobedeleted
